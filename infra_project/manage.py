@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python for test commit ci
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
