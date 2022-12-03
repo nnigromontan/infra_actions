@@ -1,5 +1,5 @@
 name: Django-app workflow
-#for commit
+#for test
 on: [push]
 
 jobs:
